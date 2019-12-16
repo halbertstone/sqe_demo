@@ -1,0 +1,165 @@
+HOME_PAGE_SELECTORS_TEXT
+
+SELECTOR GETTING STARTED TAB/LINK
+#oneHeader > div.bBottom > one-appnav > div > one-app-nav-bar > nav > div > one-app-nav-bar-item-root.navItem.slds-context-bar__item.slds-shrink-none.slds-is-active > a
+
+ELEMENT TAB/LINK
+<a href="/lightning/n/npsp__NPSP_Resources" title="Getting Started" tabindex="0" draggable="false" aria-describedby="operationId-14" class="slds-context-bar__label-action dndItem"><span class="slds-truncate">Getting Started</span></a>
+
+
+
+SELECTOR ELEMENT WAFFLE 
+#oneHeader > div.bBottom > one-appnav > div > div > div > nav
+
+ELEMENT WAFFLE
+<nav role="navigation" class="appLauncher slds-context-bar__icon-action"><one-app-launcher-header class="slds-icon-waffle_container"><button class="slds-button"><div class="slds-icon-waffle"><div class="slds-r1"></div><div class="slds-r2"></div><div class="slds-r3"></div><div class="slds-r4"></div><div class="slds-r5"></div><div class="slds-r6"></div><div class="slds-r7"></div><div class="slds-r8"></div><div class="slds-r9"></div><span class="slds-assistive-text">App Launcher</span></div></button></one-app-launcher-header></nav>
+
+
+SELCTOR ELEMENT Search Apps
+#\31 8\:1330\;a
+
+ELEMENT Search Apps
+<input class="slds-input input" type="text" aria-describedby="" placeholder="Search apps or items..." id="18:1330;a" data-aura-rendered-by="22:1330;a" data-interactive-lib-uid="4">
+
+
+SELECTOR OPPORTUNITIES LINK
+#content_235\:1330\;a > div > div.slds-p-left--small > div > div.slds-section__content.list-ctr > ul > li:nth-child(48) > a
+
+ELEMENT OPPORTUNITIES LINK
+<a class="app-launcher-link slds-text-link--reset slds-app-launcher__tile--small slds-truncate" data-aura-rendered-by="621:0" href="/lightning/o/Opportunity/home" title="Opportunities"><span class="label-ctr slds-app-launcher__tile-body slds-app-launcher__tile-body--small" data-aura-rendered-by="622:0"><span class="label slds-truncate slds-text-link" data-aura-rendered-by="623:0"><mark data-aura-rendered-by="624:0">Opportunities</mark><!--render facet: 624:0--></span></span></a>
+
+
+
+SELECTOR OPPORTUNITIES Recently viewed page top left text
+#brandBand_1 > div > div.center.oneCenterStage.lafSinglePaneWindowManager > div > div > div > div.slds-page-header--object-home.slds-page-header_joined.slds-page-header_bleed.slds-page-header.slds-shrink-none.test-headerRegion.forceListViewManagerHeader > div:nth-child(1) > div.slds-col.slds-has-flexi-truncate.firstHeaderRow > div > div.slds-media__body.slds-align-middle > nav > ol > li > span
+
+ELEMENT OPPORTUNITIES Recently viewed page
+<span class="slds-var-p-right_x-small uiOutputText forceBreadCrumbItem" data-aura-rendered-by="928:0" data-aura-class="uiOutputText forceBreadCrumbItem">Opportunities</span>
+
+SELECTOR RECENTLY VIEWED TEXT
+#brandBand_1 > div > div.center.oneCenterStage.lafSinglePaneWindowManager > div > div > div > div.slds-page-header--object-home.slds-page-header_joined.slds-page-header_bleed.slds-page-header.slds-shrink-none.test-headerRegion.forceListViewManagerHeader > div:nth-child(1) > div.slds-col.slds-has-flexi-truncate.firstHeaderRow > div > div.slds-media__body.slds-align-middle > div > h1 > div > div > span.triggerLinkText.selectedListView.uiOutputText
+
+
+ELEMENT OPPORTUNITIES TAB/LINK
+<one-app-nav-bar-item-root one-appnavbar_appnavbar="" data-id="Opportunity" data-assistive-id="operationId" aria-hidden="false" draggable="true" class="navItem slds-context-bar__item slds-shrink-none slds-is-active" role="listitem"><a href="/lightning/o/Opportunity/home" title="Opportunities" tabindex="0" draggable="false" aria-describedby="operationId-31" class="slds-context-bar__label-action dndItem"><span class="slds-truncate">Opportunities</span></a><one-app-nav-bar-item-dropdown one-appnavbaritemdropdown_appnavbaritemdropdown-host=""><div one-appnavbaritemdropdown_appnavbaritemdropdown="" class="slds-context-bar__label-action slds-p-left--none"><one-app-nav-bar-menu-button one-appnavbaritemdropdown_appnavbaritemdropdown="" class="slds-dropdown-trigger slds-dropdown-trigger--click" one-appnavbarmenubutton_appnavbarmenubutton-host="" style="font-style: normal;"><a one-appnavbarmenubutton_appnavbarmenubutton="" role="button" draggable="false" aria-expanded="false" tabindex="0" aria-haspopup="true" class="slds-button slds-button_reset"><lightning-icon one-appnavbarmenubutton_appnavbarmenubutton="" class="slds-icon-utility-chevrondown slds-icon_container"><lightning-primitive-icon lightning-primitiveicon_primitiveicon-host=""><svg lightning-primitiveIcon_primitiveIcon="" focusable="false" data-key="chevrondown" aria-hidden="true" class="slds-icon slds-icon-text-default slds-icon_xx-small"><use lightning-primitiveIcon_primitiveIcon="" xlink:href="/_slds/icons/utility-sprite/svg/symbols.svg?cache=9.28.0#chevrondown"></use></svg></lightning-primitive-icon></lightning-icon><span one-appnavbarmenubutton_appnavbarmenubutton="" class="slds-assistive-text">Opportunities Menu</span></a></one-app-nav-bar-menu-button></div></one-app-nav-bar-item-dropdown></one-app-nav-bar-item-root>
+
+
+SELCTOR OPPORTUNITIES TAB/LINK
+#oneHeader > div.bBottom > one-appnav > div > one-app-nav-bar > nav > div > one-app-nav-bar-item-root.navItem.slds-context-bar__item.slds-shrink-none.slds-is-active > a
+
+ELEMENT  OPPORTUNITIES TAB/LINK
+<a href="/lightning/o/Opportunity/home" title="Opportunities" tabindex="0" draggable="false" aria-describedby="operationId-31" class="slds-context-bar__label-action dndItem"><span class="slds-truncate">Opportunities</span></a>
+
+
+SELCTOR NEW OPPORTUNITIES BUTTON
+#brandBand_1 > div > div.center.oneCenterStage.lafSinglePaneWindowManager > div > div > div > div.slds-page-header--object-home.slds-page-header_joined.slds-page-header_bleed.slds-page-header.slds-shrink-none.test-headerRegion.forceListViewManagerHeader > div:nth-child(1) > div.slds-col.slds-no-flex.slds-grid.slds-align-top.slds-p-bottom--xx-small.test-lvmForceActionsContainer > ul > li > a
+
+ELEMENT NEW OPPORTUNITIES BUTTON
+<a href="javascript:void(0);" title="New" data-aura-rendered-by="1250:0" class="forceActionLink" data-aura-class="forceActionLink" role="button"><div class="slds-truncate" title="New" data-aura-rendered-by="1251:0">New</div></a>
+
+
+
+
+
+ELEMENT PREVIOUS OPPORTUNITY 'Hacker_1' note Obj-ID: 0066g000002AyvVAAS
+<a class="slds-truncate outputLookupLink slds-truncate outputLookupLink-0066g000002AyvVAAS-1277:0 forceOutputLookup" data-ownerid="1277:0" data-refid="recordId" data-recordid="0066g000002AyvVAAS" data-special-link="true" data-navigable="true" href="/lightning/r/0066g000002AyvVAAS/view" target="_blank" rel="noreferrer" title="Hacker_1" data-aura-rendered-by="1286:0" data-aura-class="forceOutputLookup">Hacker_1<!--render facet: 1289:0--></a>
+
+
+
+
+
+
+SELECTOR SELECT A RECORD TYPE TEXT
+#content_1379\:0 > div > div > div.actionBody > div > div > div:nth-child(1) > fieldset > div.changeRecordTypeLeftColumn > legend
+
+ELEMENT SELECT A RECORD TYPE
+<legend class="form-element__legend slds-form-element__label" data-aura-rendered-by="1480:0">Select a record type</legend>
+
+
+
+SELECTOR OPP TYPE GRANT 
+#content_1379\:0 > div > div > div.actionBody > div > div > div:nth-child(1) > fieldset > div.changeRecordTypeRightColumn.slds-form-element__control > div:nth-child(3) > label > div.changeRecordTypeOptionRightColumn > span
+
+ELEMENT OPP TYPE GRANT
+<span class="slds-form-element__label" data-aura-rendered-by="1515:0">Grant</span>
+
+
+<span class="slds-form-element__label" data-aura-rendered-by="1497:0">Donation</span>
+
+
+
+
+
+
+#content_1732\:0 > div > div > div.actionBody > div > article > h2
+<h2 class="inlineTitle slds-p-top--large slds-p-horizontal--medium slds-p-bottom--medium slds-text-heading--medium" data-aura-rendered-by="2:2580;a">New Opportunity: Donation</h2>
+
+#content_3965\:0 > div > div > div.actionBody > div > article > h2
+<h2 class="inlineTitle slds-p-top--large slds-p-horizontal--medium slds-p-bottom--medium slds-text-heading--medium" data-aura-rendered-by="2:1021;a">New Opportunity: Grant</h2>
+
+
+
+
+
+
+NOT Sure I can find a selector to a field to check which record type form and output type is being done.
+
+                 #content_3965\:0 > div > div > div.actionBody > div > article > h2
+# donation:      #content_6231\:0 > div > div > div.actionBody > div > article > h2
+# donation information: #content_6231\:0 > div > div > div.actionBody > div > article > div.test-id__record-layout-container.riseTransitionEnabled > div > div:nth-child(1) > h3 > span
+# matching gift: #content_5483\:0 > div > div > div.actionBody > div > article > h2
+# membership:    #content_5836\:0 > div > div > div.actionBody > div > article > h2
+NEW_OPPORTUNITY_FORM_SELECTOR = r"#content_581\:0 > div > div > div.actionBody > div"
+
+matching opp record type: #\39 469\:0 > div > div > div:nth-child(2) > div > div.slds-form-element__control.slds-grid.itemBody > span > div > div > span
+inkind opp record type:   #\31 282\:7116\;a > div > div > div:nth-child(2) > div > div.slds-form-element__control.slds-grid.itemBody > span > div
+
+
+
+
+
+
+OPP TYPE SELECION DIALOG
+<div class="changeRecordTypeRightColumn slds-form-element__control" data-aura-rendered-by="997:0"><div data-aura-rendered-by="999:0"><label class="slds-radio" for="0126g000000yPx8AAE" data-aura-rendered-by="1000:0"><div class="changeRecordTypeOptionLeftColumn" data-aura-rendered-by="1001:0"><input class="input uiInput uiInputRadio uiInput--default uiInput--radio" type="radio" value="0126g000000yPx8AAE" name="changeRecordTypeRadio933:0" aria-describedby="" checked="checked" defaultchecked="true" id="0126g000000yPx8AAE" data-aura-rendered-by="1006:0" data-aura-class="uiInput uiInputRadio uiInput--default uiInput--radio" data-interactive-lib-uid="3"><!--render facet: 1009:0--><span class="slds-radio--faux" data-aura-rendered-by="1010:0"></span></div><div class="changeRecordTypeOptionRightColumn" data-aura-rendered-by="1011:0"><span class="slds-form-element__label" data-aura-rendered-by="1012:0">Donation</span><div class="changeRecordTypeItemDescription changeRecordTypeLabel" data-aura-rendered-by="1014:0">Donation Received</div></div></label></div><div class="clearall" data-aura-rendered-by="1016:0"></div><div data-aura-rendered-by="1017:0"><label class="slds-radio" for="0126g000000yPx5AAE" data-aura-rendered-by="1018:0"><div class="changeRecordTypeOptionLeftColumn" data-aura-rendered-by="1019:0"><input class="input uiInput uiInputRadio uiInput--default uiInput--radio" type="radio" value="0126g000000yPx5AAE" name="changeRecordTypeRadio933:0" aria-describedby="" id="0126g000000yPx5AAE" data-aura-rendered-by="1024:0" data-aura-class="uiInput uiInputRadio uiInput--default uiInput--radio" data-interactive-lib-uid="4"><!--render facet: 1027:0--><span class="slds-radio--faux" data-aura-rendered-by="1028:0"></span></div><div class="changeRecordTypeOptionRightColumn" data-aura-rendered-by="1029:0"><span class="slds-form-element__label" data-aura-rendered-by="1030:0">Grant</span><div class="changeRecordTypeItemDescription changeRecordTypeLabel" data-aura-rendered-by="1032:0">Grant Received</div></div></label></div><div class="clearall" data-aura-rendered-by="1034:0"></div><div data-aura-rendered-by="1035:0"><label class="slds-radio" for="0126g000000yPxGAAU" data-aura-rendered-by="1036:0"><div class="changeRecordTypeOptionLeftColumn" data-aura-rendered-by="1037:0"><input class="input uiInput uiInputRadio uiInput--default uiInput--radio" type="radio" value="0126g000000yPxGAAU" name="changeRecordTypeRadio933:0" aria-describedby="" id="0126g000000yPxGAAU" data-aura-rendered-by="1042:0" data-aura-class="uiInput uiInputRadio uiInput--default uiInput--radio" data-interactive-lib-uid="5"><!--render facet: 1045:0--><span class="slds-radio--faux" data-aura-rendered-by="1046:0"></span></div><div class="changeRecordTypeOptionRightColumn" data-aura-rendered-by="1047:0"><span class="slds-form-element__label" data-aura-rendered-by="1048:0">In-Kind Gift</span><div class="changeRecordTypeItemDescription changeRecordTypeLabel" data-aura-rendered-by="1050:0">Goods or Services received as In-Kind</div></div></label></div><div class="clearall" data-aura-rendered-by="1052:0"></div><div data-aura-rendered-by="1053:0"><label class="slds-radio" for="0126g000000yPxDAAU" data-aura-rendered-by="1054:0"><div class="changeRecordTypeOptionLeftColumn" data-aura-rendered-by="1055:0"><input class="input uiInput uiInputRadio uiInput--default uiInput--radio" type="radio" value="0126g000000yPxDAAU" name="changeRecordTypeRadio933:0" aria-describedby="" id="0126g000000yPxDAAU" data-aura-rendered-by="1060:0" data-aura-class="uiInput uiInputRadio uiInput--default uiInput--radio" data-interactive-lib-uid="6"><!--render facet: 1063:0--><span class="slds-radio--faux" data-aura-rendered-by="1064:0"></span></div><div class="changeRecordTypeOptionRightColumn" data-aura-rendered-by="1065:0"><span class="slds-form-element__label" data-aura-rendered-by="1066:0">Major Gift</span><div class="changeRecordTypeItemDescription changeRecordTypeLabel" data-aura-rendered-by="1068:0">Large Donation from a Major Donor</div></div></label></div><div class="clearall" data-aura-rendered-by="1070:0"></div><div data-aura-rendered-by="1071:0"><label class="slds-radio" for="0126g000000yPxEAAU" data-aura-rendered-by="1072:0"><div class="changeRecordTypeOptionLeftColumn" data-aura-rendered-by="1073:0"><input class="input uiInput uiInputRadio uiInput--default uiInput--radio" type="radio" value="0126g000000yPxEAAU" name="changeRecordTypeRadio933:0" aria-describedby="" id="0126g000000yPxEAAU" data-aura-rendered-by="1078:0" data-aura-class="uiInput uiInputRadio uiInput--default uiInput--radio" data-interactive-lib-uid="7"><!--render facet: 1081:0--><span class="slds-radio--faux" data-aura-rendered-by="1082:0"></span></div><div class="changeRecordTypeOptionRightColumn" data-aura-rendered-by="1083:0"><span class="slds-form-element__label" data-aura-rendered-by="1084:0">Matching Gift</span><div class="changeRecordTypeItemDescription changeRecordTypeLabel" data-aura-rendered-by="1086:0">Matching Donation from an Donor's Employer or other Organization</div></div></label></div><div class="clearall" data-aura-rendered-by="1088:0"></div><div data-aura-rendered-by="1089:0"><label class="slds-radio" for="0126g000000yPxAAAU" data-aura-rendered-by="1090:0"><div class="changeRecordTypeOptionLeftColumn" data-aura-rendered-by="1091:0"><input class="input uiInput uiInputRadio uiInput--default uiInput--radio" type="radio" value="0126g000000yPxAAAU" name="changeRecordTypeRadio933:0" aria-describedby="" id="0126g000000yPxAAAU" data-aura-rendered-by="1096:0" data-aura-class="uiInput uiInputRadio uiInput--default uiInput--radio" data-interactive-lib-uid="8"><!--render facet: 1099:0--><span class="slds-radio--faux" data-aura-rendered-by="1100:0"></span></div><div class="changeRecordTypeOptionRightColumn" data-aura-rendered-by="1101:0"><span class="slds-form-element__label" data-aura-rendered-by="1102:0">Membership</span><div class="changeRecordTypeItemDescription changeRecordTypeLabel" data-aura-rendered-by="1104:0">A membership record type</div></div></label></div><div class="clearall" data-aura-rendered-by="1106:0"></div></div>
+
+
+
+
+
+
+GRANT TYPE RADIO BUTTON TARGET INDICATOR NOT SELECTED
+SELECTOR
+#content_581\:0 > div > div > div.actionBody > div > div > div:nth-child(1) > fieldset > div.changeRecordTypeRightColumn.slds-form-element__control > div:nth-child(3) > label > div.changeRecordTypeOptionLeftColumn
+ELEMENT
+<div class="changeRecordTypeOptionLeftColumn" data-aura-rendered-by="1019:0"><input class="input uiInput uiInputRadio uiInput--default uiInput--radio" type="radio" value="0126g000000yPx5AAE" name="changeRecordTypeRadio933:0" aria-describedby="" id="0126g000000yPx5AAE" data-aura-rendered-by="1024:0" data-aura-class="uiInput uiInputRadio uiInput--default uiInput--radio" data-interactive-lib-uid="4"><!--render facet: 1027:0--><span class="slds-radio--faux" data-aura-rendered-by="1028:0"></span></div>
+
+<div class="changeRecordTypeOptionLeftColumn" data-aura-rendered-by="1019:0"><input class="input uiInput uiInputRadio uiInput--default uiInput--radio" type="radio" value="0126g000000yPx5AAE" name="changeRecordTypeRadio933:0" aria-describedby="" id="0126g000000yPx5AAE" data-aura-rendered-by="1024:0" data-aura-class="uiInput uiInputRadio uiInput--default uiInput--radio" data-interactive-lib-uid="4"><!--render facet: 1027:0--><span class="slds-radio--faux" data-aura-rendered-by="1028:0"></span></div>
+
+
+GRANT TYPE RADIO BUTTON TARGET INDICATOR SELECTED
+
+
+
+
+
+CANCEL SELECTOR 
+#content_581\:0 > div > div > div.inlineFooter > div > button.slds-button.slds-button--neutral.slds-button.slds-button_neutral.uiButton > span
+
+
+
+
+
+
+
+
+
+
+
+<div class="undefined lookup__menu uiAbstractList uiAutocompleteList uiInput uiAutocomplete uiInput--default uiInput--lookup" role="listbox" data-aura-rendered-by="18952:0" data-aura-class="uiAbstractList uiAutocompleteList uiInput uiAutocomplete uiInput--default uiInput--lookup" style="width: 235px;"><div class="hidden" data-aura-rendered-by="18944:0"><div class="searchButton itemContainer slds-lookup__item-action--label slds-text-link--reset slds-grid slds-grid--vertical-align-center slds-truncate forceSearchInputLookupDesktopActionItem lookup__header" data-aura-rendered-by="17589:0" data-aura-class="forceSearchInputLookupDesktopActionItem" id="17587:0" role="option"><lightning-icon class="itemIcon slds-icon slds-icon--x-small slds-m-left--x-small slds-icon-text-default slds-button__icon slds-icon-utility-search slds-icon_container forceIcon" data-data-rendering-service-uid="5367" data-aura-rendered-by="17592:0" data-aura-class="forceIcon"><lightning-primitive-icon lightning-primitiveicon_primitiveicon-host=""><svg lightning-primitiveIcon_primitiveIcon="" focusable="false" data-key="search" aria-hidden="true" class="slds-icon slds-icon_xx-small"><use lightning-primitiveIcon_primitiveIcon="" xlink:href="/_slds/icons/utility-sprite/svg/symbols.svg?cache=9.28.0#search"></use></svg></lightning-primitive-icon><span class="slds-assistive-text">Search Contacts</span></lightning-icon><span class="itemLabel slds-truncate slds-show--inline-block slds-m-left--xx-small" title="" data-aura-rendered-by="17593:0"></span></div></div><div class="listContent" data-aura-rendered-by="18954:0"><ul class="lookup__list  visible" role="presentation" data-aura-rendered-by="18949:0"><li class="lookup__item  default uiAutocompleteOption forceSearchInputLookupDesktopOption" role="presentation" data-aura-rendered-by="15:13427;a" data-aura-class="uiAutocompleteOption forceSearchInputLookupDesktopOption" data-interactive-uid="5"><a role="option" id="1:13427;a" data-aura-rendered-by="16:13427;a" href="javascript:void(0);"><div class="mruIcon slds-icon slds-icon--small slds-float--left slds-m-vertical--xx-small slds-m-left--xx-small slds-media__figure forceEntityIcon" style="background-color: #A094ED" data-aura-rendered-by="5:13427;a" data-aura-class="forceEntityIcon"><span data-aura-rendered-by="8:13427;a" class="uiImage" data-aura-class="uiImage"><img data-aura-rendered-by="6:13427;a" src="https://na174.salesforce.com/img/icon/t4v35/standard/contact_120.png" class="icon " alt="Contact" title="Contact"></span></div><div class="slds-m-left--smalllabels slds-truncate slds-media__body" data-aura-rendered-by="9:13427;a"><div class="primaryLabel slds-truncate slds-lookup__result-text" title="Bigears" data-aura-rendered-by="10:13427;a">Bigears<!--render facet: 11:13427;a--></div><div class="slds-lookup__result-meta secondaryLabel slds-truncate slds-text-body--small" title="Bigears Household" data-aura-rendered-by="12:13427;a">Bigears Household<!--render facet: 13:13427;a--></div></div></a></li></ul><div class="emptyListContent" data-aura-rendered-by="18956:0"><div class="slds-hide" data-aura-rendered-by="17586:0"></div></div><div class="loadingIndicator" data-aura-rendered-by="18958:0"><div class="background" data-aura-rendered-by="18960:0"></div><span class="label" data-aura-rendered-by="18961:0">Loading...</span></div></div><div class="" data-aura-rendered-by="18947:0"><div class="createNew itemContainer slds-lookup__item-action--label slds-text-link--reset slds-grid slds-grid--vertical-align-center slds-truncate forceSearchInputLookupDesktopActionItem lookup__footer" data-aura-rendered-by="17597:0" data-aura-class="forceSearchInputLookupDesktopActionItem" id="17595:0" role="option"><lightning-icon class="itemIcon slds-icon slds-icon--x-small slds-m-left--x-small slds-icon-text-default slds-button__icon slds-icon-utility-add slds-icon_container forceIcon" data-data-rendering-service-uid="5368" data-aura-rendered-by="17600:0" data-aura-class="forceIcon"><lightning-primitive-icon lightning-primitiveicon_primitiveicon-host=""><svg lightning-primitiveIcon_primitiveIcon="" focusable="false" data-key="add" aria-hidden="true" class="slds-icon slds-icon_xx-small"><use lightning-primitiveIcon_primitiveIcon="" xlink:href="/_slds/icons/utility-sprite/svg/symbols.svg?cache=9.28.0#add"></use></svg></lightning-primitive-icon></lightning-icon><span class="itemLabel slds-truncate slds-show--inline-block slds-m-left--xx-small" title="New Contact" data-aura-rendered-by="17601:0">New Contact</span></div></div></div>
+
+
+
+
+<mark data-aura-rendered-by="624:0">Opportunities</mark>
+
+https://na174.lightning.force.com/lightning/o/Opportunity/home
