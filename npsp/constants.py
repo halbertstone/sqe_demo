@@ -22,7 +22,7 @@ LOGIN_SUBMIT_LOGIN_ID = "Login"
 LOGIN_WRONG_PASSWORD = "hstone@npsp.orgBADPWD"
 LOGIN_ERROR_ID = "error"
 LOGIN_EXPECTED_ERROR_TEXT = "Please check your username and password. If you still can't log in, contact your Salesforce administrator."
-LOGIN_GOOD_PASSWORD = "npsP.org1!"
+LOGIN_GOOD_PASSWORD = "***********"
 LOGIN_TEST_USER = "hstone@npsp.org"
 
 # -----------------
